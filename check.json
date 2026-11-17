@@ -1,0 +1,14 @@
+{
+  "command": [
+    "pwsh",
+    "-NoProfile",
+    "-File",
+    "app.ps1"
+  ],
+  "expected": {
+    "orderCount": 3,
+    "lostSales": 3,
+    "onHand": 4,
+    "onOrder": 6
+  }
+}

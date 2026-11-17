@@ -1,0 +1,13 @@
+{
+  "initial": 7,
+  "threshold": 4,
+  "orderQuantity": 6,
+  "leadDays": 2,
+  "demand": [
+    3,
+    4,
+    4,
+    5,
+    2
+  ]
+}
